@@ -15,7 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="pic.svg">
+   sodipodi:docname="pic.svg"
+   inkscape:export-filename="/home/aleksey/devel/altera/_github/avmm_lvds_bridge/doc/pic.svg.png"
+   inkscape:export-xdpi="200"
+   inkscape:export-ydpi="200">
   <defs
      id="defs4">
     <marker
@@ -339,7 +342,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="348.53221"
+     inkscape:cx="434.2465"
      inkscape:cy="532.43124"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
